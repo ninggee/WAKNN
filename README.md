@@ -5,3 +5,9 @@ This project is an implementation to the paper.
 ## Dependence
 1. Python3
 2. stemmer.py this python file is a library of stemming words
+3. Reuters-21578 text data set
+
+## What the paper do 
+The paper use **wighted KNN** algorithm to classify text.
+
+
